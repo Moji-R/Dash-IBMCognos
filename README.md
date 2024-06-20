@@ -1,4 +1,4 @@
-# Dash-IBMCognos
+# Dash-IBM Cognos
 
-##Dashboard
-IBM Data Analyst Project
+## Editing the file
+It is a markdown file in this repository
