@@ -1,4 +1,4 @@
 # Dash-IBM Cognos
 
-## Editing the file
-It is a markdown file in this repository
+## Visualization
+Building a dashboard with IBM Cognos Analytics to create a visualization of Kaggle survey 2023 data 
